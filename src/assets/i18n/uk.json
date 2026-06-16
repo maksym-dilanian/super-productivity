@@ -934,7 +934,7 @@
       "S": {
         "REMOVED_PLAN_DATE": "Видалено дату плану для завдання '{{taskTitle}}'",
         "TASK_ALREADY_PLANNED": "Завдання вже заплановано на {{date}}",
-        "TASK_PLANNED_FOR": "Завдання заплановано на {{date}}"
+        "TASK_PLANNED_FOR": "Завдання заплановано на <strong>{{date}}</strong>{{extra}}"
       }
     },
     "POMODORO": {
@@ -1880,7 +1880,7 @@
         "GO_TO_TASK": "Перейти до завдання",
         "MOVED_TO_ARCHIVE": "Перенесено {{nr}} завдань в архів",
         "MOVED_TO_PROJECT": "Перенесено завдання \"{{taskTitle}}\" на проект \"{{projectTitle}}\"",
-        "REMINDER_ADDED": "Заплановано завдання \"{{title}}\"",
+        "REMINDER_ADDED": "Заплановано <strong>\"{{title}}\"</strong> на <strong>{{date}}</strong>",
         "REMINDER_DELETED": "Видалено нагадування для завдання",
         "REMINDER_UPDATED": "Оновлено нагадування для завдання \"{{title}}\"",
         "TASK_ALREADY_EXISTS": "Завдання <strong>{{title}}</strong> вже існує",
